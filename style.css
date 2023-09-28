@@ -1,0 +1,14 @@
+h1{
+    background-color: rgb(206, 95, 141);
+    font-size: 150%;
+  }
+  
+  header { 
+    background: #b2b69f;
+    text-align: center;
+  }
+  nav { 
+      font-size: 110%;
+      font-family: 'Times New Roman', Times, serif;
+      font-variant: small-caps;
+  }
